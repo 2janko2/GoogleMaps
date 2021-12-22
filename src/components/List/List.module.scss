@@ -1,0 +1,20 @@
+.list {
+    padding: 16px;
+
+    &__title {
+        margin: 0 0 16px;
+        font-size: 28px;
+    }
+
+    &__item {
+        margin: 12px 0;
+        cursor: pointer;
+        color: #333;
+        font-size: 18px;
+        font-weight: 500;
+
+        &_active {
+            color: #62af44;
+        }
+    }
+}

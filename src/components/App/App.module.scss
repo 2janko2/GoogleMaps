@@ -1,0 +1,11 @@
+.app {
+    display: flex;
+
+    &__list {
+        width: 20vw;
+    }
+
+    &__map {
+        width: 80vw;
+    }
+}

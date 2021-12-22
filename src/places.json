@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Rixos The Palm Dubai",
+        "lat": 25.1212,
+        "lng": 55.1535
+    },
+    {
+        "name": "Shangri-La Hotel",
+        "lat": 25.2084,
+        "lng": 55.2719
+    },
+    {
+        "name": "Grand Hyatt",
+        "lat": 25.2285,
+        "lng": 55.3273
+    },
+    {
+        "name": "Radisson Blue",
+        "lat": 25.093683,
+        "lng": 55.155315
+    },
+    {
+        "name": "Marina Hotel Apartments",
+        "lat": 25.088907,
+        "lng": 55.148571
+    },
+    {
+        "name": "Burdge Al Arab",
+        "lat": 25.14105,
+        "lng": 55.185978
+    },
+    {
+        "name": "Oaks Ibn Battuta Gate Hotel Dubai",
+        "lat": 25.0418154,
+        "lng": 55.1155187
+    },
+    {
+        "name": "Caesars Palace Dubai",
+        "lat": 25.077609,
+        "lng": 55.121394
+    },
+    {
+        "name": "FIVE Jumeirah Village Hotel",
+        "lat": 25.068,
+        "lng": 55.2096
+    },
+    {
+        "name": "Ghaya Grand Hotel",
+        "lat": 25.03343,
+        "lng": 55.203316
+    }
+]
